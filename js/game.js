@@ -53,7 +53,7 @@ const checkEndGame = () => {
     const modalButton = document.createElement('button');
     modalButton.textContent = 'Jogar novamente';
     modalButton.addEventListener('click', () => {
-      window.location.href = "/index.html";
+      window.location.href = "https://robsonllourenco.github.io/gamememorymdc/";
     });
   
     modalContent.appendChild(modalTitle);
